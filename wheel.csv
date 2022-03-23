@@ -2,7 +2,7 @@ emotion,time,valence,arousal
 excited,5,0.550,0.890
 happy,15,0.800,0.750
 serene,45,0.700,0.460
-sad,60,0.195,0.130
+sad,60,0.300,0.300
 distressed,70,0.120,0.630
 melancholic,85,0.385,0.200
 happy,90,0.640,0.590
